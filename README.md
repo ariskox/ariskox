@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ariskox/ariskox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seasoned iOS Developer with 14+ Years of Expertise.
 
-Here are some ideas to get you started:
+With over 14 years of hands-on experience in iOS
+development, I’ve successfully navigated both freelance
+projects and led development teams to deliver high-quality
+solutions. My expertise in UNIX systems enables me to
+efficiently manage lower-level aspects of the platform.
+Outside of work, I dedicate time to mentoring, sharing my
+passion for coding and helping the next generation of
+developers grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Reach me via X/twitter at: https://x.com/ariskox
+  
