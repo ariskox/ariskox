@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Seasoned iOS Developer with 14+ Years of Expertise.
 
 With over 14 years of hands-on experience in iOS
